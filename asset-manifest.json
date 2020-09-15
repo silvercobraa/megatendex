@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/megatendex/static/css/main.5f361e03.chunk.css",
-    "main.js": "/megatendex/static/js/main.62cf5815.chunk.js",
-    "main.js.map": "/megatendex/static/js/main.62cf5815.chunk.js.map",
+    "main.js": "/megatendex/static/js/main.958e5fa3.chunk.js",
+    "main.js.map": "/megatendex/static/js/main.958e5fa3.chunk.js.map",
     "runtime-main.js": "/megatendex/static/js/runtime-main.f55a2324.js",
     "runtime-main.js.map": "/megatendex/static/js/runtime-main.f55a2324.js.map",
     "static/js/2.b76ee6f9.chunk.js": "/megatendex/static/js/2.b76ee6f9.chunk.js",
     "static/js/2.b76ee6f9.chunk.js.map": "/megatendex/static/js/2.b76ee6f9.chunk.js.map",
     "index.html": "/megatendex/index.html",
-    "precache-manifest.48ffb53d3967405c897cff17916f95bd.js": "/megatendex/precache-manifest.48ffb53d3967405c897cff17916f95bd.js",
+    "precache-manifest.eadeb160809ad09b5d6bd3eb1a587f4e.js": "/megatendex/precache-manifest.eadeb160809ad09b5d6bd3eb1a587f4e.js",
     "service-worker.js": "/megatendex/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/megatendex/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.b76ee6f9.chunk.js.LICENSE.txt": "/megatendex/static/js/2.b76ee6f9.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f55a2324.js",
     "static/js/2.b76ee6f9.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.62cf5815.chunk.js"
+    "static/js/main.958e5fa3.chunk.js"
   ]
 }
