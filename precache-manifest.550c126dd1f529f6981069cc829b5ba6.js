@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a795148ff19358fd789ec6afa30c9f0",
+    "revision": "f33aa20cc88847633bd910c7baf0bc4c",
     "url": "/megatendex/index.html"
   },
   {
-    "revision": "6df2eac09f6dd75e490e",
+    "revision": "2c31642269e049785780",
     "url": "/megatendex/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "84f52e75536e36b036d9",
-    "url": "/megatendex/static/js/2.b76ee6f9.chunk.js"
+    "revision": "a97b8f12445e53c3ac2f",
+    "url": "/megatendex/static/js/2.58988f2d.chunk.js"
   },
   {
     "revision": "89b0379e7bcda1a468d8b0343aeb4e53",
-    "url": "/megatendex/static/js/2.b76ee6f9.chunk.js.LICENSE.txt"
+    "url": "/megatendex/static/js/2.58988f2d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6df2eac09f6dd75e490e",
-    "url": "/megatendex/static/js/main.861a0731.chunk.js"
+    "revision": "2c31642269e049785780",
+    "url": "/megatendex/static/js/main.04aae45b.chunk.js"
   },
   {
     "revision": "fb33944c6e455afe4d24",
